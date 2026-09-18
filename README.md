@@ -11,101 +11,112 @@
   <a href="https://github.com/SyedMustafa1101?tab=followers"><img src="https://img.shields.io/github/followers/SyedMustafa1101?label=Followers&amp;style=flat&amp;color=b7ff2a&amp;labelColor=2e3440&amp;logo=github&amp;logoColor=white" alt="GitHub followers" /></a>
 </p>
 
-## Who I Am
-
-```typescript
-const mustafa = {
-  title: "Full Stack Developer | Software Engineering Student",
-  stack: {
-    frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
-    backend: ["PHP", "Laravel", "Python", "Flask"],
-    desktop: ["Java", "JavaFX"],
-    data: ["MySQL", "JDBC", "JSON", "XML", "phpMyAdmin"],
-    tools: ["Git", "GitHub", "VS Code", "NetBeans", "XAMPP"],
-    design: ["Figma", "Canva"],
-    cms: ["WordPress", "WooCommerce"],
-  },
-  launchedProjects: ["Smart Super Market Management System"],
-  certifications: [
-    "Aptech Diploma in Information Systems and Management (2024)",
-  ],
-  status: "Studying Software Engineering",
-  openTo: "Connecting via LinkedIn, email, or my portfolio",
-};
-```
-
-## Featured Projects
-
-### Smart Super Market Management System
-
-<a href="https://github.com/SyedMustafa1101/Smart-Super-Market-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyedMustafa1101&amp;repo=Smart-Super-Market-Management-System&amp;theme=nord&amp;title_color=b7ff2a&amp;icon_color=b7ff2a&amp;hide_border=true" alt="Smart-Super-Market-Management-System repository card" />
-</a>
-
-A desktop application built with **Java, JavaFX, MySQL, and JDBC** to manage products, employees, sales, attendance, shopping carts, and authentication.
-
-| Layer | Technology |
-| :--- | :--- |
-| Application logic | Java |
-| Desktop interface | JavaFX |
-| Database | MySQL |
-| Database connectivity | JDBC |
-
-[**Code →**](https://github.com/SyedMustafa1101/Smart-Super-Market-Management-System)
-
-## Tech Stack & Tools
-
-### Frontend
-
-![HTML5, CSS3, JavaScript, Tailwind CSS, and Bootstrap](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=5)
-
-### Backend & Desktop
-
-![PHP, Laravel, Python, Flask, and Java](https://skillicons.dev/icons?i=php,laravel,py,flask,java&theme=dark&perline=5)
-
-**Desktop UI:** JavaFX
-
-### Database & Data
-
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-
-**Connectivity, formats & administration:** JDBC · JSON · XML · phpMyAdmin
-
-### Development Tools
-
-![Git, GitHub, and VS Code](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3)
-
-**Also used:** NetBeans · XAMPP
-
-### Design & CMS
-
-![Figma and WordPress](https://skillicons.dev/icons?i=figma,wordpress&theme=dark&perline=2)
-
-**Also used:** Canva · WooCommerce
-
-## GitHub Stats
+## ✦ About Me
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=SyedMustafa1101&amp;show_icons=true&amp;theme=nord&amp;title_color=b7ff2a&amp;icon_color=b7ff2a&amp;hide_border=true" alt="Syed Mustafa Ahmad's GitHub statistics" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMustafa1101&amp;layout=compact&amp;langs_count=8&amp;theme=nord&amp;title_color=b7ff2a&amp;hide_border=true" alt="Most used languages in public GitHub repositories" />
+  <img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-b7ff2a?style=for-the-badge&amp;labelColor=2e3440" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING%20STUDENT-b7ff2a?style=for-the-badge&amp;labelColor=2e3440" alt="Software Engineering Student" />
 </p>
 
-## Contribution Streak
+<p align="center">
+  I build practical web and desktop applications with clean interfaces,<br />
+  reliable databases, and maintainable code.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🎓 Education</strong><br />
+      Studying Software Engineering
+    </td>
+    <td align="center" width="50%">
+      <strong>🚀 Featured Build</strong><br />
+      Smart Super Market Management System
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🏅 Certification</strong><br />
+      Aptech Diploma in Information Systems and Management · 2024
+    </td>
+    <td align="center" width="50%">
+      <strong>🤝 Let's Connect</strong><br />
+      LinkedIn · Email · Portfolio
+    </td>
+  </tr>
+</table>
+
+## ✦ Featured Project
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>🛒 Smart Super Market Management System</h3>
+      <p>A desktop application for managing products, employees, sales, attendance, shopping carts, and authentication.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-b7ff2a?style=for-the-badge&amp;logo=openjdk&amp;logoColor=2e3440" alt="Java" />
+        <img src="https://img.shields.io/badge/JavaFX-b7ff2a?style=for-the-badge&amp;logoColor=2e3440" alt="JavaFX" />
+        <img src="https://img.shields.io/badge/MySQL-b7ff2a?style=for-the-badge&amp;logo=mysql&amp;logoColor=2e3440" alt="MySQL" />
+        <img src="https://img.shields.io/badge/JDBC-b7ff2a?style=for-the-badge&amp;logoColor=2e3440" alt="JDBC" />
+      </p>
+      <p>
+        <a href="https://github.com/SyedMustafa1101/Smart-Super-Market-Management-System"><img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-2e3440?style=for-the-badge&amp;logo=github&amp;logoColor=b7ff2a" alt="View Smart Super Market Management System source code" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/last-commit/SyedMustafa1101/Smart-Super-Market-Management-System?style=flat-square&amp;color=b7ff2a&amp;labelColor=2e3440" alt="Latest project commit" />
+        <img src="https://img.shields.io/github/repo-size/SyedMustafa1101/Smart-Super-Market-Management-System?style=flat-square&amp;color=b7ff2a&amp;labelColor=2e3440" alt="Project repository size" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## ✦ Technologies & Tools
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-2e3440?style=for-the-badge&amp;logo=html5&amp;logoColor=b7ff2a" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2e3440?style=for-the-badge&amp;logo=css&amp;logoColor=b7ff2a" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-2e3440?style=for-the-badge&amp;logo=javascript&amp;logoColor=b7ff2a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-2e3440?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=b7ff2a" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-2e3440?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=b7ff2a" alt="Bootstrap" />
+</p>
+
+<h3 align="center">Backend & Desktop</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-2e3440?style=for-the-badge&amp;logo=php&amp;logoColor=b7ff2a" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-2e3440?style=for-the-badge&amp;logo=laravel&amp;logoColor=b7ff2a" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-2e3440?style=for-the-badge&amp;logo=python&amp;logoColor=b7ff2a" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-2e3440?style=for-the-badge&amp;logo=flask&amp;logoColor=b7ff2a" alt="Flask" />
+  <img src="https://img.shields.io/badge/Java-2e3440?style=for-the-badge&amp;logo=openjdk&amp;logoColor=b7ff2a" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaFX-2e3440?style=for-the-badge&amp;logoColor=b7ff2a" alt="JavaFX" />
+</p>
+
+<h3 align="center">Database & Data</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-2e3440?style=for-the-badge&amp;logo=mysql&amp;logoColor=b7ff2a" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JDBC-2e3440?style=for-the-badge&amp;logoColor=b7ff2a" alt="JDBC" />
+  <img src="https://img.shields.io/badge/JSON-2e3440?style=for-the-badge&amp;logo=json&amp;logoColor=b7ff2a" alt="JSON" />
+  <img src="https://img.shields.io/badge/XML-2e3440?style=for-the-badge&amp;logoColor=b7ff2a" alt="XML" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-2e3440?style=for-the-badge&amp;logo=phpmyadmin&amp;logoColor=b7ff2a" alt="phpMyAdmin" />
+</p>
+
+<h3 align="center">Development, Design & CMS</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-2e3440?style=for-the-badge&amp;logo=git&amp;logoColor=b7ff2a" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&amp;logo=github&amp;logoColor=b7ff2a" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-2e3440?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=b7ff2a" alt="VS Code" />
+  <img src="https://img.shields.io/badge/NetBeans-2e3440?style=for-the-badge&amp;logo=apachenetbeanside&amp;logoColor=b7ff2a" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/XAMPP-2e3440?style=for-the-badge&amp;logo=xampp&amp;logoColor=b7ff2a" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Figma-2e3440?style=for-the-badge&amp;logo=figma&amp;logoColor=b7ff2a" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-2e3440?style=for-the-badge&amp;logo=canva&amp;logoColor=b7ff2a" alt="Canva" />
+  <img src="https://img.shields.io/badge/WordPress-2e3440?style=for-the-badge&amp;logo=wordpress&amp;logoColor=b7ff2a" alt="WordPress" />
+  <img src="https://img.shields.io/badge/WooCommerce-2e3440?style=for-the-badge&amp;logo=woocommerce&amp;logoColor=b7ff2a" alt="WooCommerce" />
+</p>
+
+## ✦ GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SyedMustafa1101&amp;theme=nord&amp;hide_border=true&amp;ring=B7FF2A&amp;fire=B7FF2A&amp;currStreakLabel=B7FF2A" alt="GitHub contribution streak" />
-</p>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedMustafa1101&amp;theme=nord&amp;no-frame=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="GitHub profile trophies" />
-</p>
-
-## Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SyedMustafa1101&amp;bg_color=2e3440&amp;color=d8dee9&amp;title_color=b7ff2a&amp;line=b7ff2a&amp;point=eceff4&amp;area=true&amp;area_color=b7ff2a&amp;hide_border=true" alt="Syed Mustafa Ahmad's GitHub contribution activity graph" />
 </p>
 
 ## Connect
